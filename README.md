@@ -1,2 +1,2 @@
 # ConfigData
-Contains configuration for spring cloud configuration
+Contains configuration for spring cloud project
